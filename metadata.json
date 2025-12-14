@@ -1,0 +1,7 @@
+{
+  "name": "VS FM Radio",
+  "description": "A living AI audio companion. Menu-less, gesture-first, voice-driven audio intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
